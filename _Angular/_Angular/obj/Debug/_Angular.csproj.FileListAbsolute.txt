@@ -1,0 +1,5 @@
+C:\Users\LoserTwo\Desktop\Angular_Study\_Angular\_Angular\bin\_Angular.dll
+C:\Users\LoserTwo\Desktop\Angular_Study\_Angular\_Angular\bin\_Angular.pdb
+C:\Users\LoserTwo\Desktop\Angular_Study\_Angular\_Angular\obj\Debug\_Angular.csprojResolveAssemblyReference.cache
+C:\Users\LoserTwo\Desktop\Angular_Study\_Angular\_Angular\obj\Debug\_Angular.dll
+C:\Users\LoserTwo\Desktop\Angular_Study\_Angular\_Angular\obj\Debug\_Angular.pdb
